@@ -1,3 +1,11 @@
+#Here is my hosted website link: https://uiux-gpt3.netlify.app/
+
+![image](https://user-images.githubusercontent.com/115407738/227490798-1856439b-efe0-483d-8b74-04838f8f2b01.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
